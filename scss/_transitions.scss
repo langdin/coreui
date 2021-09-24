@@ -6,13 +6,6 @@
   }
 }
 
-// scss-docs-start collapse-classes
-.collapse {
-  &:not(.show) {
-    display: none;
-  }
-}
-
 .collapsing {
   height: 0;
   overflow: hidden;
